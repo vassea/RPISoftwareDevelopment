@@ -5,7 +5,7 @@
 #include <cstdlib>
 using namespace std;
 
-class BinarySearchTree
+class BinarySearchTree //class definition for BST, includes struct, pointers, function and variables
 {
     private:
         struct tree_node
